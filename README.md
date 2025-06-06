@@ -2,7 +2,7 @@
 
 ## Proyecto
 
-Este repositorio contiene el trabajo práctico sobre análisis de algoritmos realizado por Fabiana Rossetto y Federico Savastano para la materia Programación I. El objetivo principal es comprender y demostrar la importancia de la eficiencia algorítmica utilizando la notación BIG-O.
+Este repositorio contiene el trabajo práctico sobre análisis de algoritmos realizado por Fabiana Rossetto y Federico Savastano para la materia Programación I, perteneciente a la comisión 5. El objetivo principal es comprender y demostrar la importancia de la eficiencia algorítmica utilizando la notación BIG-O.
 
 ## Qué exploramos?
 
@@ -18,6 +18,8 @@ Ambos algoritmos, aunque teóricamente tienen una complejidad O(n), muestran dif
 Nuestras pruebas empíricas revelaron que, para listas muy grandes (hasta 10 millones de elementos), la función `sum()` de Python es más rápida que la implementación manual. Esto ilustra cómo las funciones nativas y optimizadas del lenguaje pueden superar significativamente las implementaciones manuales, incluso para algoritmos con la misma complejidad asintótica.
 
 ## Video Explicativo
+
+Link: https://www.youtube.com/watch?v=4aoUsgRpK_I
 
 Hemos preparado un video donde explicamos en detalle los conceptos de análisis de algoritmos, nuestra metodología, el caso práctico, los resultados obtenidos y las conclusiones.
 
