@@ -27,3 +27,4 @@ Hemos preparado un video donde explicamos en detalle los conceptos de análisis 
 
 * `tp-integrador-programación.py`: El código fuente de los algoritmos y las mediciones de tiempo.
 * `README.md`: Este archivo.
+*  `pdf resolviendo la consigna`: Un documento pdf con la resolución de la consigna del trabajo practico integrador.
