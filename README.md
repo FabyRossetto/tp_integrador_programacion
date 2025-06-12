@@ -19,7 +19,7 @@ Nuestras pruebas empíricas revelaron que, para listas muy grandes (hasta 10 mil
 
 ## Video Explicativo
 
-Link: https://www.youtube.com/watch?v=4aoUsgRpK_I
+Link: https://www.youtube.com/watch?v=tZT-rlcRajw
 
 Hemos preparado un video donde explicamos en detalle los conceptos de análisis de algoritmos, nuestra metodología, el caso práctico, los resultados obtenidos y las conclusiones.
 
